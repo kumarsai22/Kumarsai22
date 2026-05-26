@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kumarsai 👋
 
-<!--
-**kumarsai22/Kumarsai22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Cloud Computing graduate candidate based in Dublin, Ireland.
 
-Here are some ideas to get you started:
+Interested in:
+- IT Support
+- Cloud Support
+- Technical Support
+- Cloud Support / AWS Cloud
+- DevOps fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- AWS
+- Python
+- Git
+- Linux
+- Windows
+- Networking
+- Docker
+- CI/CD
+
+Projects:
+- Cloud web application projects
+- DevOps practice projects
+- AWS deployment experiments
+
+Currently seeking entry-level IT / Cloud opportunities.
